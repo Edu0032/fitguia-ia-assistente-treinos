@@ -1,0 +1,80 @@
+{
+  "nome": "Base de Conhecimento do FitGuia IA",
+  "versao": "1.0",
+  "principios": [
+    "A orientação é geral e não substitui avaliação profissional.",
+    "A técnica correta deve vir antes do aumento de carga ou intensidade.",
+    "Iniciantes devem começar com treinos simples, consistentes e progressivos.",
+    "Fortalecimento muscular deve respeitar descanso e recuperação.",
+    "Dor intensa, tontura, dor no peito, falta de ar anormal ou lesão recente são sinais de alerta."
+  ],
+  "treino_em_casa": {
+    "orientacao": "Priorizar exercícios com peso corporal, pouco equipamento e espaço seguro.",
+    "exercicios_base": [
+      "agachamento livre",
+      "flexão inclinada",
+      "ponte de glúteos",
+      "prancha curta",
+      "mobilidade de quadril",
+      "mobilidade de ombros"
+    ],
+    "frequencia_inicial": "2 a 3 vezes por semana para iniciantes, com descanso entre sessões de força."
+  },
+  "treino_na_academia": {
+    "orientacao": "Priorizar máquinas e exercícios controlados para iniciantes, evitando cargas máximas.",
+    "exercicios_base": [
+      "leg press leve",
+      "remada baixa",
+      "supino máquina",
+      "puxada frontal",
+      "prancha curta",
+      "caminhada leve"
+    ],
+    "frequencia_inicial": "2 a 3 vezes por semana para iniciantes, com progressão gradual."
+  },
+  "objetivos": {
+    "forca": "Usar exercícios resistidos, grandes grupos musculares e progressão gradual.",
+    "condicionamento": "Usar circuitos leves, caminhada, mobilidade e controle de intensidade.",
+    "hipertrofia": "Usar treino resistido com volume moderado, técnica e descanso.",
+    "mobilidade": "Usar movimentos controlados, sem dor, com foco em amplitude confortável.",
+    "iniciante": "Focar adaptação, consistência, técnica e percepção corporal."
+  },
+  "sinais_de_risco": [
+    "dor forte",
+    "dor intensa",
+    "lesão recente",
+    "dor no peito",
+    "falta de ar anormal",
+    "tontura",
+    "desmaio",
+    "inflamação aguda",
+    "joelho inchado",
+    "torção recente"
+  ],
+  "regras_de_resposta": [
+    "Se houver sinal de risco, não montar treino.",
+    "Se faltarem informações essenciais, fazer perguntas objetivas.",
+    "Não prometer resultados em prazo específico.",
+    "Não criar dietas.",
+    "Não inventar exercícios fora da base.",
+    "Responder de forma curta, clara e útil."
+  ],
+  "fontes": [
+    {
+      "nome": "CDC — Adult Activity: An Overview",
+      "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html"
+    },
+    {
+      "nome": "CDC — Physical Activity Guidelines for School-Aged Children and Adolescents",
+      "url": "https://www.cdc.gov/physical-activity-education/guidelines/index.html"
+    },
+    {
+      "nome": "ACSM — Physical Activity Guidelines",
+      "url": "https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/"
+    },
+    {
+      "nome": "ACSM — Resistance Training for Health and Fitness",
+      "url": "https://www.prescriptiontogetactive.com/static/pdfs/resistance-training-ACSM.pdf"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "nome": "Usuário de Teste",
+  "idade": "não informada",
+  "objetivo_principal": "organizar rotina inicial de treinos",
+  "ambiente_preferido": "casa ou academia",
+  "nivel": "iniciante",
+  "tempo_disponivel": "20 a 40 minutos",
+  "equipamentos_disponiveis": [
+    "peso corporal",
+    "mochila",
+    "halteres leves quando disponíveis",
+    "máquinas de academia quando aplicável"
+  ],
+  "restricoes_informadas": [
+    "não há restrições fixas cadastradas"
+  ],
+  "observacao": "Perfil fictício usado apenas para contextualizar o agente no protótipo."
+}
